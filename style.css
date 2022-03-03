@@ -1,0 +1,65 @@
+body{
+
+  margin: 0;
+  text-align: center;
+  color: #535b60;
+}
+.cover{
+  width: 100%;
+  margin: 0;
+}
+.ban{
+  position: absolute;
+  top: 50px;
+  left: 500px;
+}
+.container{
+  background-color: rgba(255, 255, 255, 0.8);
+  width: 400px;
+  height: 400px;
+  position: absolute;
+  top: 190px;
+  left: 500px;
+
+}
+h2{
+  color: #003300;
+}
+.top{
+  background-color: rgba(0, 124, 0, 0.20);
+  margin: 30px;
+}
+.form{
+  line-height: 2;
+  text-align: left;
+  margin-left: 20px;
+  font-size: 26px;
+}
+.mail{
+  width: 300px;
+  height: 30px
+}
+.butt{
+  background-color: green;
+  width: 129px;
+  margin-top: 40px;
+  margin-left: 200px;
+  color: white;
+  font-size: 20px;
+}
+.butt:hover{
+  background-color: white;
+}
+.forget{
+  margin: 10px 10px;
+  text-align: left;
+}
+.footer{
+  width: 100%;
+  background-color: green;
+  color: white;
+  height: 39px;
+  padding-top: 10px;
+  position: fixed;
+  bottom: 0;
+}
